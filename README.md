@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Batuhan Berk Ertekin</h1>
 <h3 align="center">I'm an iOS Developer</h3>
 
+<p align="center"><img src="https://blog.kakaocdn.net/dn/bJH41m/btqCU7B3x8T/R0JeNMOUnko3AKlNhptMLk/img.png"> </p>
+
 - 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **swift , kotlin ,flutter**

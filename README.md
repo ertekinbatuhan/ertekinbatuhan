@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Batuhan Berk Ertekin</h1>
 <h3 align="center">I'm an iOS Developer</h3>
-<p align="center"><img src="https://ethervision.net/wp-content/uploads/2014/08/swift-programming-language.png"> </p>
+<p align="center"><img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*OgeU8HPo8TFF1cZQ-4XjJw.jpeg"> </p>
 
 
 

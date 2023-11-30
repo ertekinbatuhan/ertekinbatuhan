@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm Batuhan Berk Ertekin</h1>
 <h3 align="center">I'm an iOS Developer</h3>
-<p align="center"><img src="https://github.com/ertekinbatuhan/ertekinbatuhan/assets/101355515/3c911ce0-c7e5-4477-bc0d-fb363fa54311"> </p>
+<p align="center"><img src="https://github.com/ertekinbatuhan/ertekinbatuhan/assets/101355515/910e4325-945f-4f68-880d-b88f27f480da"> </p>
+
 
 
 

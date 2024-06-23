@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm Batuhan Berk Ertekin</h1>
 
-<p align="center"><img src="https://github.com/ertekinbatuhan/ertekinbatuhan/assets/101355515/7087444a-5223-40bf-b13f-1d5c476a9fcf"> </p>
+<p align="center"><img src="https://github.com/ertekinbatuhan/ertekinbatuhan/assets/101355515/f63f99de-c06d-42c8-867a-70dc0d03e8b9"> </p>
+
 
 - 🌱 I’m currently learning **Swift**
 

@@ -3,7 +3,7 @@
 <p align="center"><img src="https://github.com/ertekinbatuhan/ertekinbatuhan/assets/101355515/0c428d03-f123-49ea-b37a-91276bc11aac"> </p>
 
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning Swift & Flutter
 
 - 💬 Ask me about **swift , kotlin ,flutter**
 

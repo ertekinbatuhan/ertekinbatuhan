@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋 I'm Batuhan Berk Ertekin</h1>
-<p align="center"><img src="https://github.com/ertekinbatuhan/ertekinbatuhan/assets/101355515/c6cc079b-5fa6-49e3-917f-6c95250667c0"> </p>
+<p align="center"><img src="https://github.com/ertekinbatuhan/ertekinbatuhan/assets/101355515/18bac00e-bc55-4211-9b7d-81a6c7a2e50e"> </p>
+
+
 
 
 # 💫 About Me:

@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋 I'm Batuhan Berk Ertekin</h1>
-<p align="center"><img src="https://github.com/ertekinbatuhan/ertekinbatuhan/assets/101355515/18bac00e-bc55-4211-9b7d-81a6c7a2e50e"> </p>
+<p align="center"><img src="https://github.com/user-attachments/assets/905709fa-fbef-4cb9-b01a-094e2ab614aa"> </p>
 
 <div align="center">
   <a href="https://github.com/BatuhanBerkErtekin" style="display: inline-block;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Batuhan+Berk+Ertekin+%e2%9c%a8;%f0%9f%93%9a+iOS+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
   </a>
 </div>
+
 
 
 

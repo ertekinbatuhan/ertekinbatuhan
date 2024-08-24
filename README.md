@@ -15,7 +15,7 @@
 🌱 I’m currently learning Swift & Flutter<br><br>💬 Ask me about swift , kotlin ,flutter<br><br>📫 How to reach me batuhanertekinn@gmail.com
 
 BütçeDostu : Gelir - Gider Takibi 
-[LinkedIn](https://www.linkedin.com/in/batuhanberkertekin/overlay/1724172372047/single-media-viewer/?profileId=ACoAADpR0XIBnem2bNd5jxE71w95WekHmaPr-Wg)
+[LinkedIn](https://www.linkedin.com/in/batuhanberkertekin/overlay/1724517426125/single-media-viewer/?profileId=ACoAADpR0XIBnem2bNd5jxE71w95WekHmaPr-Wg)
 
 
 ## 🌐 Socials:

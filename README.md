@@ -14,7 +14,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Swift & Flutter<br><br>💬 Ask me about Swift , Flutter <br><br>📫 How to reach me batuhanertekinn@gmail.com
 
-BütçeDostu : Gelir - Gider Takibi 
+ButceDostu : Income & Expense Tracker
 [LinkedIn](https://www.linkedin.com/in/batuhanberkertekin/overlay/1724517426125/single-media-viewer/?profileId=ACoAADpR0XIBnem2bNd5jxE71w95WekHmaPr-Wg)
 
 

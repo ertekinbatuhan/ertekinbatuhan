@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Batuhan Berk Ertekin</h1>
 
-
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHM0N2RsczU2bncxNHp2a3Z3cmZoN2dpZTdieTh4aGVxbmFncmFkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1KoXHp1VXUqCmVUUr/giphy.gif" alt="GIF" width="300" height="300">
 
 
 <div align="center">

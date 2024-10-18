@@ -9,10 +9,8 @@
   </a>
 </div>
 
-
-
 # 💫 About Me:
-🌱 I’m currently learning Swift & Flutter<br><br>💬 Ask me about Swift , Flutter <br><br>📫 How to reach me batuhanertekinn@gmail.com
+🌱 I’m currently learning Swift & Flutter<br><br>💬 Ask me about Swift , Flutter <br><br>📫 How to reach me batuhanertekinn@gmail.com<br><br>📱 Check out my app: [GradeBuddy: GPA Calculator](https://apps.apple.com/tr/app/gradebuddy-gpa-calculator/id6736883210) - Now available on the App Store!
 
 
 

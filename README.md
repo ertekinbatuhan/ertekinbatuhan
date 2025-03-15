@@ -10,7 +10,7 @@
 </div>
 
 # 💫 About Me:
-🌱 I’m currently learning Swift <br><br>💬 Ask me about Swift , Flutter <br><br>📫 How to reach me batuhanertekinn@gmail.com<br><br>📱 Check out my app: [PackPlanner: Packing List](https://apps.apple.com/tr/app/packplanner-packing-list/id6737191058) - Now available on the App Store!
+🌱 I’m currently learning Swift <br><br>💬 Ask me about Swift , Flutter <br><br>📫 How to reach me batuhanertekinn@gmail.com<br><br>📱 Check out my app: [Pillify - Smart Pill Reminder](https://apps.apple.com/tr/app/pillify-smart-pill-reminder/id6743117036) - Now available on the App Store!
 
 
 

@@ -10,10 +10,12 @@
 </div>
 
 # 💫 About Me:
-🌱 I’m currently learning Swift <br><br>💬 Ask me about Swift , Flutter <br><br>📫 How to reach me batuhanertekinn@gmail.com<br><br>📱 Check out my app: [Pillify - Smart Pill Reminder](https://apps.apple.com/tr/app/pillify-smart-pill-reminder/id6743117036) - Now available on the App Store!
-
-
-
+🌱 I’m currently learning Swift <br><br>💬 Ask me about Swift , Flutter <br><br>📫 How to reach me batuhanertekinn@gmail.com<br><br> 
+# 📱 My Apps:
+- [**Pillify - Smart Pill Reminder**](https://apps.apple.com/tr/app/pillify-smart-pill-reminder/id6743117036) 
+- [**PackPlanner: Packing List**](https://apps.apple.com/tr/app/packplanner-packing-list/id6737191058)
+- [**QR Maker- Generator & Scanner**](https://apps.apple.com/tr/app/qr-maker-generator-scanner/id6740208990)
+- [**GradeBuddy: GPA Calculator**](https://apps.apple.com/tr/app/gradebuddy-gpa-calculator/id6736883210) 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/berk.btuhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhanberkertekin) 

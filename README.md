@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Featured Apps on App Store:
+### 🚀 My Published Apps:
 
 | App | Link |
 |-----|------|

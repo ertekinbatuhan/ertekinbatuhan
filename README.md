@@ -11,8 +11,8 @@
 ---
 
 ### 🌟 About Me
-- 📱 Passionate about crafting mobile applications, with a focus on iOS development
-- 🧠 Focused on expanding my skills in Swift & SwiftUI to build innovative iOS apps
+- 📱 Currently learning Swift, SwiftUI, and UIKit
+- 🧠 Passionate about using Swift & SwiftUI to create innovative iOS apps
 - 📬 Reach me: **batuhanertekinn@gmail.com**
 
 ---

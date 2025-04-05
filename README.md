@@ -13,6 +13,7 @@
 ### 🌟 About Me
 - 📱 Currently learning Swift, SwiftUI, and UIKit
 - 🧠 Passionate about using Swift & SwiftUI to create innovative iOS apps
+- ✨ Curious, consistent, and always improving
 - 📬 Reach me: **batuhanertekinn@gmail.com**
 
 ---

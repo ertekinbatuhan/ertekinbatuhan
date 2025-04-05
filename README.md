@@ -19,11 +19,11 @@
 
 ### 🚀 My Published Apps:
 
-| App | Link |
+| App | Description|
 |-----|------|
 | 💊 **[Pillify - Smart Pill Reminder](https://apps.apple.com/tr/app/pillify-smart-pill-reminder/id6743117036)** | Medication tracking made easy |
 | 🎒 **[PackPlanner: Packing List](https://apps.apple.com/tr/app/packplanner-packing-list/id6737191058)** | Smart travel planner |
-| 🔳 **[QR Maker- Generator & Scanner](https://apps.apple.com/tr/app/qr-maker-generator-scanner/id6740208990)** | All-in-one QR solution |
+| 🔲 **[QR Maker- Generator & Scanner](https://apps.apple.com/tr/app/qr-maker-generator-scanner/id6740208990)** | All-in-one QR solution |
 | 🎓 **[GradeBuddy: GPA Calculator](https://apps.apple.com/tr/app/gradebuddy-gpa-calculator/id6736883210)** | Academic GPA assistant |
 
 ---

@@ -11,8 +11,8 @@
 ---
 
 ### 🌟 About Me
-- 📱 Passionate about mobile development, especially **iOS & Flutter**  
-- 🧠 Currently diving deep into **Swift & SwiftUI**
+- 📱 Passionate about crafting mobile applications, with a focus on iOS development
+- 🧠 Focused on expanding my skills in Swift & SwiftUI to build innovative iOS apps
 - 📬 Reach me: **batuhanertekinn@gmail.com**
 
 ---

@@ -8,7 +8,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHM0N2RsczU2bncxNHp2a3Z3cmZoN2dpZTdieTh4aGVxbmFncmFkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1KoXHp1VXUqCmVUUr/giphy.gif" width="250" />
 </p>
 
----
+<h1
 
 ### 🌟 About Me
 - 📱 Currently learning Swift, SwiftUI, and UIKit
@@ -16,7 +16,9 @@
 - ✨ Curious, consistent, and always improving
 - 📬 Reach me: **batuhanertekinn@gmail.com**
 
----
+</h1>
+
+<h1
 
 ### 🚀 My Published Apps
 
@@ -26,7 +28,10 @@
 | 🎒 [**PackPlanner: Packing List**](https://apps.apple.com/tr/app/packplanner-packing-list/id6737191058) | Plan your travels and never forget what to pack. |
 | 🔲 [**QR Maker - Generator & Scanner**](https://apps.apple.com/tr/app/qr-maker-generator-scanner/id6740208990) | Generate and scan QR codes with ease. |
 | 🎓 [**GradeBuddy: GPA Calculator**](https://apps.apple.com/tr/app/gradebuddy-gpa-calculator/id6736883210) | Calculate and track your GPA effortlessly. |
----
+
+</h1>
+
+<h1
 
 ### 🌐 Connect with Me:
 
@@ -39,7 +44,9 @@
   </a>
 </p>
 
----
+</h1>
+
+<h1
 
 ### 🛠️ Tech Stack:
 
@@ -55,7 +62,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
+</h1>
 
 ### 📊 GitHub Stats:
 

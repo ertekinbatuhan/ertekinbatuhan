@@ -18,15 +18,14 @@
 
 ---
 
-### 🚀 My Published Apps:
+### 🚀 My Published Apps
 
-| App | Description|
-|-----|------|
-| 💊 **[Pillify - Smart Pill Reminder](https://apps.apple.com/tr/app/pillify-smart-pill-reminder/id6743117036)** | Medication tracking made easy |
-| 🎒 **[PackPlanner: Packing List](https://apps.apple.com/tr/app/packplanner-packing-list/id6737191058)** | Smart travel planner |
-| 🔲 **[QR Maker- Generator & Scanner](https://apps.apple.com/tr/app/qr-maker-generator-scanner/id6740208990)** | All-in-one QR solution |
-| 🎓 **[GradeBuddy: GPA Calculator](https://apps.apple.com/tr/app/gradebuddy-gpa-calculator/id6736883210)** | Academic GPA assistant |
-
+| 📱 App | 📝 Description |
+|-------|----------------|
+| 💊 [**Pillify - Smart Pill Reminder**](https://apps.apple.com/tr/app/pillify-smart-pill-reminder/id6743117036) | A simple and smart way to manage your medications. |
+| 🎒 [**PackPlanner: Packing List**](https://apps.apple.com/tr/app/packplanner-packing-list/id6737191058) | Plan your travels and never forget what to pack. |
+| 🔲 [**QR Maker - Generator & Scanner**](https://apps.apple.com/tr/app/qr-maker-generator-scanner/id6740208990) | Generate and scan QR codes with ease. |
+| 🎓 [**GradeBuddy: GPA Calculator**](https://apps.apple.com/tr/app/gradebuddy-gpa-calculator/id6736883210) | Calculate and track your GPA effortlessly. |
 ---
 
 ### 🌐 Connect with Me:

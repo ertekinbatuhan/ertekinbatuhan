@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&color=FF0000&lines=%e2%9c%a8+Batuhan+Berk+Ertekin+%e2%9c%a8;%f0%9f%93%9a+iOS+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
 </p>
 
-<p align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHM0N2RsczU2bncxNHp2a3Z3cmZoN2dpZTdieTh4aGVxbmFncmFkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1KoXHp1VXUqCmVUUr/giphy.gif" width="250" />
-</p>
 
 <h1
 

@@ -25,8 +25,6 @@
 - 👩‍🍳 [**ChefAI: Cook with AI Magic**](https://apps.apple.com/tr/app/chefai-cook-with-ai-magic/id6746969364)
 - 💊 [**Pillify - Smart Pill Reminder**](https://apps.apple.com/tr/app/pillify-smart-pill-reminder/id6743117036)  
 - 🎒 [**PackPlanner: Packing List**](https://apps.apple.com/tr/app/packplanner-packing-list/id6737191058)  
-- 🎓 [**GradeBuddy: GPA Calculator**](https://apps.apple.com/tr/app/gradebuddy-gpa-calculator/id6736883210)  
-
 
 </h1>
 

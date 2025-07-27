@@ -8,8 +8,6 @@
 <h1
 
 ### 🌟 About Me
-- 📱 Currently learning Swift, SwiftUI, UIKit, and Flutter
-- 🧠 Passionate about using Swift, SwiftUI & Flutter to create innovative mobile apps
 - ✨ Curious, consistent, and always improving
 - 📬 Reach me: **batuhanertekinn@gmail.com**
 

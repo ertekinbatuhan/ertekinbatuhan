@@ -13,18 +13,6 @@
 
 </h1>
 
-<h1
-
-
-### 🚀 My Published Apps
-
-- 💰 [**Cashly: Money Manager**](https://apps.apple.com/tr/app/cashly-money-budget-tracker/id6744645070)
-- 🔲 [**QR Code - Generator & Scanner**](https://apps.apple.com/tr/app/qr-maker-generator-scanner/id6740208990)
-- 👩‍🍳 [**ChefAI: Cook with AI Magic**](https://apps.apple.com/tr/app/chefai-cook-with-ai-magic/id6746969364)
-- 💊 [**Pillify - Smart Pill Reminder**](https://apps.apple.com/tr/app/pillify-smart-pill-reminder/id6743117036)  
-- 🎒 [**PackPlanner: Packing List**](https://apps.apple.com/tr/app/packplanner-packing-list/id6737191058)  
-
-</h1>
 
 <h1
 

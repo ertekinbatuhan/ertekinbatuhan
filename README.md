@@ -6,7 +6,6 @@
 
 </div>
 
-<br/>
 
 ## 👨‍💻 About Me
 
@@ -19,7 +18,6 @@ I build user-focused applications with clean, maintainable, and scalable code.
 - 🚀 Developed and published mobile applications
 - 📫 Reach me: **batuhanertekinn@gmail.com**
 
-<br/>
 
 ## 🌐 Connect with Me
 
@@ -32,7 +30,6 @@ I build user-focused applications with clean, maintainable, and scalable code.
   </a>
 </p>
 
-<br/>
 
 ## 🛠️ Tech Stack
 
@@ -82,7 +79,6 @@ I build user-focused applications with clean, maintainable, and scalable code.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<br/>
 
 ## 🧩 Software Practices
 
@@ -99,7 +95,6 @@ I build user-focused applications with clean, maintainable, and scalable code.
   <img src="https://img.shields.io/badge/CI_CD-D08770?style=for-the-badge" />
 </p>
 
-<br/>
 
 ## 📊 GitHub Stats
 
@@ -111,5 +106,4 @@ I build user-focused applications with clean, maintainable, and scalable code.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertekinbatuhan&theme=radical&layout=compact&hide_border=false" alt="Top Languages" />
 </p>
 
-<br/>
 

@@ -1,22 +1,22 @@
 <div align="center">
 
-# Hi 👋, I'm Batuhan Berk Ertekin
+# Hi , I'm Batuhan Berk Ertekin
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=700&center=true&vCenter=true&width=600&color=FF4B4B&lines=Software+Engineer;Mobile+Application+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
 
-## 👨‍💻 About Me
+##  About Me
 
 **Software Engineer** focused on **mobile and web application development**.  
 I build user-focused applications with clean, maintainable, and scalable code.
 
-- 📱 Focused on **iOS, Android, and cross-platform mobile development**
-- 🌐 Experienced in **frontend development, REST API integration, and data management**
-- 🧠 Interested in **clean architecture, performance optimization, and modern development practices**
-- 🚀 Developed and published mobile applications
-- 📫 Reach me: **batuhanertekinn@gmail.com**
+-  Focused on **iOS, Android, and cross-platform mobile development**
+-  Experienced in **frontend development, REST API integration, and data management**
+-  Interested in **clean architecture, performance optimization, and modern development practices**
+-  Developed and published mobile applications
+-  Reach me: **batuhanertekinn@gmail.com**
 
 
 ## 🌐 Connect with Me

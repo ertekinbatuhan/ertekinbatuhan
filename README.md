@@ -19,7 +19,7 @@ I build user-focused applications with clean, maintainable, and scalable code.
 -  Reach me: **batuhanertekinn@gmail.com**
 
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/batuhanberkertekin" target="_blank">
@@ -31,9 +31,9 @@ I build user-focused applications with clean, maintainable, and scalable code.
 </p>
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 📱 Mobile Development
+###  Mobile Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
@@ -45,7 +45,7 @@ I build user-focused applications with clean, maintainable, and scalable code.
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-### 🌐 Frontend Development
+###  Frontend Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -55,7 +55,7 @@ I build user-focused applications with clean, maintainable, and scalable code.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🗄️ Backend, Database & Services
+###  Backend, Database & Services
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -66,7 +66,7 @@ I build user-focused applications with clean, maintainable, and scalable code.
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
 </p>
 
-### 🧰 Tools & Workflow
+###  Tools & Workflow
 
 <p align="left">
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
@@ -80,7 +80,7 @@ I build user-focused applications with clean, maintainable, and scalable code.
 </p>
 
 
-## 🧩 Software Practices
+##  Software Practices
 
 <p align="left">
   <img src="https://img.shields.io/badge/Clean_Code-2E3440?style=for-the-badge" />
@@ -96,7 +96,7 @@ I build user-focused applications with clean, maintainable, and scalable code.
 </p>
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ertekinbatuhan&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats" />
